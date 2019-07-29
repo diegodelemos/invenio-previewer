@@ -33,4 +33,4 @@ flask collect -v
 flask webpack buildall
 
 flask fixtures
-flask run
+flask run -p 5001
